@@ -1,2 +1,2 @@
-# OS-Basic-Shell-Porogramming-Project
+# OS-Basic-Shell-Programming-Project
 Basic Shell Porogramming Project
